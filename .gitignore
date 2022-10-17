@@ -1,0 +1,10 @@
+*.ods
+*.o
+*.pyc
+*~
+*.directory
+*.DS_Store
+*.swp
+*.aux
+*.log
+*.out
